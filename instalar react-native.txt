@@ -1,0 +1,3 @@
+npm i react-native@latest -g
+npx react-native doctor
+npm run android

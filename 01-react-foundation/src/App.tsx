@@ -1,8 +1,9 @@
 import { 
+  FormPage,
   // Counter, 
   // CounterWithHook, 
   // LoginPage,
-  UsersPage
+  // UsersPage,
 } from "./components"
 import { 
   // BasicTypes, 
@@ -21,7 +22,8 @@ function App() {
       {/* <Counter /> */}
       {/* <CounterWithHook /> */}
       {/* <LoginPage/> */}
-      <UsersPage />
+      {/* <UsersPage /> */}
+      <FormPage />
     </main>
   )
 }
